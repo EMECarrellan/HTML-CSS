@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <p>Este es mi primer comentario de dos líneas</p>
+        <div></div>
+        <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        <ul>
+            <li>
+                <a href="https://www.youtube.com/watch?v=rG444gOSIr4">PIZZA 3h vs 12h vs 24h | Pino Prestanizzi</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/watch?v=XRC461xtx6s&ab_channel=LaCocinaDelPirata">DESMINTIENDO LIFE HACK DE COMIDA 11💩 ¿Esto vale para algo?</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/watch?v=mdNEZlLkPA4&ab_channel=PewDiePie">First time driving in Japan...</a>
+            </li>
+        </ul>
+    </body>
+</html>
