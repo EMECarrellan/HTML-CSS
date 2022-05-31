@@ -1,0 +1,21 @@
+* {
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+h1 {
+font-weight: bold;
+font-size: 4em;
+}
+
+.galeria{
+    display: flexbox;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.imagen-galeria{
+    width: 300px;
+    object-fit: contain;
+}
